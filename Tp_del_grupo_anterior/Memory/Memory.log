@@ -1,0 +1,70 @@
+[INFO] 13:21:29:786 Memory/(4888:4888): Log creado
+
+[INFO] 13:21:29:786 Memory/(4888:4888): Config recibido
+
+[INFO] 13:21:29:786 Memory/(4888:4888): IP memoria para conexion: 127.0.0.1 
+
+[INFO] 13:21:29:787 Memory/(4888:4888): Puerto para conexion: 4444 
+
+[INFO] 13:21:29:787 Memory/(4888:4888): Conexion correcta
+
+[INFO] 13:24:15:176 Memory/(4921:4921): Log creado
+
+[INFO] 13:24:15:176 Memory/(4921:4921): Config recibido
+
+[INFO] 13:24:15:177 Memory/(4921:4921): IP memoria para conexion: 127.0.0.1 
+
+[INFO] 13:24:15:177 Memory/(4921:4921): Puerto para conexion: 4444 
+
+[INFO] 13:24:15:177 Memory/(4921:4921): Conexion correcta
+
+[INFO] 15:52:07:564 Memory/(10130:10130): Log creado
+
+[INFO] 15:52:07:630 Memory/(10130:10130): Config recibido
+
+[INFO] 15:52:07:630 Memory/(10130:10130): IP memoria para conexion: 127.0.0.1 
+
+[INFO] 15:52:07:631 Memory/(10130:10130): Puerto para conexion: 4444 
+
+[INFO] 15:52:07:631 Memory/(10130:10130): Servidor listo
+[ERROR] 15:52:28:517 Memory/(10130:10130): el cliente se desconecto. Terminando servidor
+[INFO] 16:09:39:888 Memory/(10688:10688): Log creado
+
+[INFO] 16:09:39:912 Memory/(10688:10688): Config recibido
+
+[INFO] 16:09:39:912 Memory/(10688:10688): IP memoria para conexion: 127.0.0.1 
+
+[INFO] 16:09:39:913 Memory/(10688:10688): Puerto para conexion: 4444 
+
+[INFO] 16:09:39:913 Memory/(10688:10688): Servidor listo
+[INFO] 16:10:01:340 Memory/(10688:10688): Se conecto un cliente!
+[INFO] 16:10:01:340 Memory/(10688:10688): Me llego el mensaje Hola, soy un valor
+[ERROR] 16:10:13:675 Memory/(10688:10688): el cliente se desconecto. Terminando servidor
+[INFO] 03:56:43:908 Memory/(27125:27125): Log creado
+
+[INFO] 03:56:43:909 Memory/(27125:27125): Config recibido
+
+[INFO] 03:56:43:909 Memory/(27125:27125): IP memoria para conexion: 127.0.0.1 
+
+[INFO] 03:56:43:909 Memory/(27125:27125): Puerto para conexion: 4444 
+
+[INFO] 03:56:43:909 Memory/(27125:27125): Servidor listo
+[INFO] 03:58:03:186 Memory/(27125:27125): Se conecto un cliente!
+[INFO] 03:58:03:186 Memory/(27125:27125): Me llego el mensaje IP: 
+
+[INFO] 03:58:03:186 Memory/(27125:27125): Me llego el mensaje 127.0.0.1
+[ERROR] 03:58:25:189 Memory/(27125:27125): el cliente se desconecto. Terminando servidor
+[INFO] 03:58:32:133 Memory/(27210:27210): Log creado
+
+[INFO] 03:58:32:133 Memory/(27210:27210): Config recibido
+
+[INFO] 03:58:32:133 Memory/(27210:27210): IP memoria para conexion: 127.0.0.1 
+
+[INFO] 03:58:32:134 Memory/(27210:27210): Puerto para conexion: 4444 
+
+[INFO] 03:58:32:134 Memory/(27210:27210): Servidor listo
+[INFO] 03:58:48:318 Memory/(27210:27210): Se conecto un cliente!
+[INFO] 03:58:48:319 Memory/(27210:27210): Me llego el mensaje IP: 
+
+[INFO] 03:58:48:319 Memory/(27210:27210): Me llego el mensaje 127.0.0.1
+[ERROR] 03:58:59:303 Memory/(27210:27210): el cliente se desconecto. Terminando servidor
